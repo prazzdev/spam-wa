@@ -1,4 +1,4 @@
-# SPAM-WA
+# SPAM WHATSAPP
 Spam WhatsApp menggunakan Javascript
 
 Cara penggunaan :
